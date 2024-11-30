@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I am Nash Maglaqui<br><br>🖥️ 3rd year Computer Engineering student<br>🧑‍💻 Aspiring to be a full-stack developer<br>🌼 Currently learning MERN stack with MySQL
+Hello! I am Nash Maglaqui<br><br>🖥️ 3rd Year Computer Engineering Student<br>🧑‍💻 Aspiring Full-Stack Developer<br>🌟 Currently learning the MERN stack with MySQL
 
 
 ## 🌐 Socials:
