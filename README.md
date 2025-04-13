@@ -1,8 +1,8 @@
 # 🧑‍💻About Me:
 🙋‍♂️ Hi! I am Nash Maglaqui a Computer Engineering Student
 <br> 
-💻 Aspiring Full-Stack Developer
-
+💻 Aspiring Full-Stack Developer <br>
+🖱️[Visit my portfolio](https://nshmglq.vercel.app/)
 
 
 ## 🌐 Socials:
