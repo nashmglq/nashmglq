@@ -2,7 +2,7 @@
 🙋‍♂️ Hi! I am Nash Maglaqui a Computer Engineering Student
 <br> 
 💻 Aspiring Full-Stack Developer <br>
-🖱️[Visit my website](https://nshmglq.vercel.app/)
+🖱️[Visit my website](https://nash-fawn.vercel.app/)
 
 
 ## 🌐 Socials:
